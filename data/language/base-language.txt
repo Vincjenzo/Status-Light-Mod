@@ -1,1 +1,7 @@
-
+object_StatusLightNRG1								Light - NRG
+object_StatusLightNRG2								Light - NRG
+object_StatusLightNRG3								Light - NRG
+object_StatusLightNRG4								Light - NRG
+object_StatusLightNRG5								Light - NRG
+object_StatusLightNRG6								Light - NRG
+object_LightSwitchNRG								Light Switch - NRG 
