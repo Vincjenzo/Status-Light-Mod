@@ -1,0 +1,6 @@
+Name		"Status Light Mod"
+Author		"Vincent"
+Description	"This mod allows you to construct a Light - (Normal/Red/Green) that can be set to Off/On/Red/Green.\n\nBuild a Light Switch, select a control group and on/off states for the Lights.\n\nDoor Timers, Power Switches, basically anything that sends out a true/false signal can be connected to the Light Switch. When the Light Switch then receives a trigger, it will change all the lights in the control group to the desired state.\n\n*Known Bugs: Clicking on an interface option in the light switch does not refresh the interface. Only after clicking it again will it update. Don't know how to fix this.\nDismantle/Dump/Move on a Light leaves behind a normal/red/green light. Can't fix this I think. However if you change the light state to Off, all the lights placed 'underneath' will be removed."
+Version		"v1.0"
+Date		"18/04/2021"
+URL			"www.prison-architect.com"
