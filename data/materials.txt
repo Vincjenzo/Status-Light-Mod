@@ -1,1 +1,154 @@
+BEGIN Object  
+	Name				StatusLightNRG1
+	ConstructionTime	2.0000
+	Toughness			1.00000
+	Sprite				StatusLight
+	Price				-50
+	Filter				Decoration
+	Filter				RequiresElectricity
+	RenderDepth			2
+	BlockedBy			Wall
+	BlockedBy			UtilityStation
+	BlockedBy			StaticObject
+	Properties			StaticObject
+	Properties			Electrical
+	Properties			Scripted
+	Properties			Utility
+	SpecialRestriction	NoShadow
+	MadeOf				Composite
+	Group				StaticObject
+	Research			RemoteAccess
+	VersionAdded		3000
+	DLC					SeaAirLand
+END
+BEGIN Object  
+	Name				StatusLightNRG2
+	ConstructionTime	2.0000
+	Toughness			1.00000
+	Sprite				StatusLight
+	Price				-50
+	RenderDepth			2
+	BlockedBy			Wall
+	BlockedBy			UtilityStation
+	BlockedBy			StaticObject
+	Properties			StaticObject
+	Properties			Electrical
+	Properties			Scripted
+	SpecialRestriction	NoShadow
+	MadeOf				Composite
+	IndoorOutdoor		OutdoorOnly
+	Research			RemoteAccess
+	VersionAdded		3000
+	DLC					DUNNODONTCARE
+END
+BEGIN Object  
+	Name				StatusLightNRG3
+	ConstructionTime	2.0000
+	Toughness			1.00000
+	Sprite				StatusLight
+	Price				-50
+	Filter				Decoration
+	Filter				RequiresElectricity
+	RenderDepth			2
+	BlockedBy			Wall
+	BlockedBy			UtilityStation
+	BlockedBy			StaticObject
+	Properties			StaticObject
+	Properties			Electrical
+	Properties			Scripted
+	SpecialRestriction	NoShadow
+	MadeOf				Composite
+	IndoorOutdoor		OutdoorOnly
+	Group				StaticObject
+	Research			RemoteAccess
+	VersionAdded		3000
+	DLC					SeaAirLand
+END
+BEGIN Object  
+	Name				StatusLightNRG4
+	ConstructionTime	2.0000
+	Toughness			1.00000
+	Sprite				StatusLight
+	Price				-50
+	Filter				Decoration
+	Filter				RequiresElectricity
+	RenderDepth			2
+	BlockedBy			Wall
+	BlockedBy			UtilityStation
+	BlockedBy			StaticObject
+	Properties			StaticObject
+	Properties			Electrical
+	Properties			Scripted
+	SpecialRestriction	NoShadow
+	MadeOf				Composite
+	IndoorOutdoor		OutdoorOnly
+	Group				StaticObject
+	Research			RemoteAccess
+	VersionAdded		3000
+	DLC					SeaAirLand
+END
+BEGIN Object  
+	Name				StatusLightNRG5
+	ConstructionTime	2.0000
+	Toughness			1.00000
+	Sprite				StatusLight
+	Price				-50
+	Filter				Decoration
+	Filter				RequiresElectricity
+	RenderDepth			2
+	BlockedBy			Wall
+	BlockedBy			UtilityStation
+	BlockedBy			StaticObject
+	Properties			StaticObject
+	Properties			Electrical
+	Properties			Scripted
+	SpecialRestriction	NoShadow
+	MadeOf				Composite
+	IndoorOutdoor		OutdoorOnly
+	Group				StaticObject
+	Research			RemoteAccess
+	VersionAdded		3000
+	DLC					SeaAirLand
+END
+BEGIN Object
+	Name				StatusLightNRG6
+	ConstructionTime	2.0000
+	Toughness			1.00000
+	Sprite				StatusLight
+	Price				-50
+	Filter				Decoration
+	Filter				RequiresElectricity
+	RenderDepth			2
+	BlockedBy			Wall
+	BlockedBy			UtilityStation
+	BlockedBy			StaticObject
+	Properties			StaticObject
+	Properties			Electrical
+	Properties			Scripted
+	SpecialRestriction	NoShadow
+	MadeOf				Composite
+	IndoorOutdoor		OutdoorOnly
+	Group				StaticObject
+	Research			RemoteAccess
+	VersionAdded		3000
+	DLC					SeaAirLand
+END
 
+BEGIN Object
+	Name				LightSwitchNRG
+	ConstructionTime	1.00000
+	MoveSpeedFactor		0.800000
+	Price				-100
+	RenderDepth			2
+	Group				StaticObject
+	BlockedBy			Wall
+	BlockedBy			StaticObject
+	BlockedBy			UtilityStation
+	Sprite				ElectricalSwitch
+	MadeOf				Composite
+	Properties			StaticObject
+	Properties			Utility
+	Properties			Electrical
+	Properties			Wired
+	Properties			Scripted
+END
